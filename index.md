@@ -68,7 +68,7 @@ layout: workshop
 }
 </style>
 <br>
-{% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
+{% comment %} See instructions in the comments below for how to edit specific sections of this workshop template.  {% endcomment %}
 
 {% comment %}
 HEADER
